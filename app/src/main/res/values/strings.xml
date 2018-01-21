@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+    <string name="name">Name</string>
+    <string name="question_one">Question 1: Which keywords in the Java programming language are correct?</string>
+    <string name="question_one_answer_one">return</string>
+    <string name="question_one_answer_two">new</string>
+    <string name="question_one_answer_three">else</string>
+    <string name="question_two">Question 2: A ViewGroup is a big View that can contain smaller Views inside of it. Which answer is correct?</string>
+    <string name="question_two_answer_one">The smaller Views are called the children of the ViewGroup and might be TextView or ImageView.</string>
+    <string name="question_two_answer_two">The ViewGroup is called the parent of its children.</string>
+    <string name="question_two_answer_three">Each child is not nested (completely contained) within its parent.</string>
+    <string name="question_three">Question 3: WCAG? Which answer is correct?</string>
+    <string name="question_three_answer_one">Color schemes that include darker and lighter variations of your primary and secondary colors.</string>
+    <string name="question_three_answer_two">Check if text is accessible on different-colored backgrounds.</string>
+    <string name="question_three_answer_three">The Web Content Accessibility Guidelines legibility standards.</string>
+    <string name="question_four">Question 4: A … variable can contain one of two possible values, true or false.</string>
+    <string name="question_four_answer_one">boolean</string>
+    <string name="question_four_answer_two">int</string>
+    <string name="question_four_answer_three">String</string>
+    <string name="question_five">Question 5: Any series of characters—letters, numbers, punctuation marks, and blanks—is called a … of characters.</string>
+    <string name="question_five_answer_one">int</string>
+    <string name="question_five_answer_two">String</string>
+    <string name="question_five_answer_three">boolean</string>
+    <string name="question_six">Question 6: When we tell the computer to execute a method of an object, we say we are...?</string>
+    <string name="question_six_answer_one">defining the method</string>
+    <string name="question_six_answer_two">calling the method</string>
+    <string name="question_six_answer_three">playing the method</string>
+    <string name="question_seven">Question 7: Some methods have no return value? In that case, we write the word...</string>
+    <string name="question_seven_answer_one">void</string>
+    <string name="question_seven_answer_two">int</string>
+    <string name="question_seven_answer_three">boolen</string>
+    <string name="question_eight">Question 8: The Drawble Folder</string>
+    <string name="question_eight_answer_one">android:id="@+id/androidparty_image_view</string>
+    <string name="question_eight_answer_two">android:paddingRight="8dp"</string>
+    <string name="question_eight_answer_three">android:src="@drawable/androidparty"</string>
+    <string name="score">score</string>
+    <string name="reset">reset</string>
+    <string name="score_text"></string>
+</resources>
