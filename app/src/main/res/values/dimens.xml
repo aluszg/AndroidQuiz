@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="layout_marginBottom">16dp</dimen>
+    <dimen name="layout_marginLeft">16dp</dimen>
+    <dimen name="layout_marginRight">16dp</dimen>
+    <dimen name="layout_marginTop">16dp</dimen>
+    <dimen name="layout_marginStart">4dp</dimen>
+    <dimen name="paddingLeft">16dp</dimen>
+    <dimen name="paddingStart">16dp</dimen>
+    <dimen name="textSize">14sp</dimen>
+</resources>
